@@ -22,13 +22,13 @@ An artificially intelligent traffic violation detection and management system.
 
 ## Phase 3: Image processing to identify license plate
 
-![imgpro1](/readme_img/Picture5.png)
+![imgpro1](/readme_img/Picture5.PNG)
 
-![imgpro2](/readme_img/Picture6.png)
+![imgpro2](/readme_img/Picture6.PNG)
 
-![imgpro3](/readme_img/Picture7.png)
+![imgpro3](/readme_img/Picture7.PNG)
 
-![imgpro4](/readme_img/Picture8.png)
+![imgpro4](/readme_img/Picture8.PNG)
 
 ## Phase 4: Optical character recognition
 
