@@ -51,3 +51,17 @@ An artificially intelligent traffic violation detection and management system.
 - utils
 - csv
 - math
+
+## How to run it?
+1. Place the traffic surveillance video in the 'input_footage' folder inside src
+2. Update 'input_video' variable in 'Vehicle_detection.py'. You can also use a live footage from an installed surveillance camera.
+3. Detect the violators by executing
+```bash
+	python Vehicle_detection.py
+```
+4. The pictures of the violating vehicles will be placed in the 'detected_vehicles' folder.
+5. Obtain the license numbers of those vehicles by executing
+```bash
+	python Main.py
+```
+6. All the license numbers, along with the timestamp are stored in 'plates.txt'. The pictures of all the license plates will be found in the 'license_plate' folder.
